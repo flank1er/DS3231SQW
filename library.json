@@ -1,0 +1,12 @@
+{
+  "name": "DS1307SQW",
+  "keywords": "i2c, rtc, time, clock",
+  "description": "DS1307/DS3231 RTC (Real-Time-Clock)",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/flank1er/DS3231SQW.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
