@@ -12,29 +12,29 @@ DS3231	KEYWORD1
 #######################################
 set_control	KEYWORD2
 set_date	KEYWORD2
-set_self_update KEYWORD2
+set_self_update	KEYWORD2
 set_adjust	KEYWORD2
-set_rtc_adjust KEYWORD2
+set_rtc_adjust	KEYWORD2
 stop_clock	KEYWORD2
-force_update KEYWORD2
-print_calendar KEYWORD2
+force_update	KEYWORD2
+print_calendar	KEYWORD2
 get			KEYWORD2
 weekday	KEYWORD2
 get_temperature	KEYWORD2
-get_temperature_fraction KEYWORD2
+get_temperature_fraction	KEYWORD2
 set			KEYWORD2
-get_control KEYWORD2
-preset_control KEYWORD2
+get_control	KEYWORD2
+preset_control	KEYWORD2
 set_status	KEYWORD2
 get_status	KEYWORD2
-reset_control KEYWORD2
+reset_control	KEYWORD2
 set_aging	KEYWORD2
 get_aging	KEYWORD2
-print_alarm2 KEYWORD2
-print_alarm1 KEYWORD2
+print_alarm2	KEYWORD2
+print_alarm1	KEYWORD2
 set_alarm1	KEYWORD2
 set_alarm2	KEYWORD2
-disable_alarm2 KEYWORD2
+disable_alarm2	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
